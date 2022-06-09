@@ -1,0 +1,23 @@
+{
+  "name": "burgers-api",
+  "version": "1.0.0",
+  "description": "This is an API about burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Ogbus/burgers-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ogbus/burgers-api/issues"
+  },
+  "homepage": "https://github.com/Ogbus/burgers-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
